@@ -1,0 +1,4 @@
+- downloaded the file
+- tried out strings and file
+- then tried exiftool. Found a weird looking string. 
+- decoded said string using base64 -d and got the flag
