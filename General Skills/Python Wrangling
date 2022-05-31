@@ -1,0 +1,3 @@
+- Downloaded all three files. 
+- Went through the python script and realized I have to pass the flag file as a command line argument with -d to decode it.
+- Then I provided the password when prompted and got the flag
