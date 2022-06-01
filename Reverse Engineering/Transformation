@@ -1,0 +1,8 @@
+- had to watch a video to get this.
+- wrote a python script to get it. 
+- extracted the hex value of each letter and decoded hex to text to get the flag
+
+Python Script:
+flag = open("enc").read()
+for i in flag:
+    print(hex(ord(i)).lstrip("0x"), end=" ")
