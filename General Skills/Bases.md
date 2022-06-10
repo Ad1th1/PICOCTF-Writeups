@@ -1,0 +1,1 @@
+- chuck the string into cyberchef and decode from base64 to get the flag
